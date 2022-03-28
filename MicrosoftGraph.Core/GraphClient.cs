@@ -27,6 +27,8 @@ namespace MicrosoftGraph.Core
         public GraphHelper AuthenticationProvider { get; }
         public GraphClient(GraphHelper authProvider)
         {
+
+            ///adkhbsdhfbkjdbfjhfbjhdfvhkbdfkhd
             AuthenticationProvider = authProvider;
         }
     }
